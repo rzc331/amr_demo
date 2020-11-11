@@ -1,0 +1,139 @@
+(base) li@li-OptiPlex-7070:~/Documents/active_learning/AMR$ supy active_learning.py
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+2145.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+2145.0
+2354.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+2387.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+2434.0 is the second result, convergence confirmed
+***
+[[0.62446245]] [2434.]
+Picture successfully taken
+***
+2289.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+2289.0
+2729.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+2769.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+2815.0 is the second result, convergence confirmed
+***
+[0.62446245] [2434.]
+
+[0.59335934] [2815.]
+
+Picture successfully taken
+***
+1101.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+1101.0
+1363.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+1398.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+1434.0 is the second result, convergence confirmed
+***
+[0.62446245] [2434.]
+
+[0.59335934] [2815.]
+
+[0.31223122] [1434.]
+
+QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-root'
+$$$
+Observing point of X=[0.9979998]
+$$$
+Picture successfully taken
+***
+2936.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+2936.0
+3478.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+3523.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+3594.0 is the second result, convergence confirmed
+***
+[0.9979998] [1.6133473]
+$$$
+Observing point of X=[0.00030003]
+$$$
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+99.49 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+106.3 is the second result, convergence confirmed
+***
+[0.00030003] [0.04771809]
+$$$
+Observing point of X=[0.84468447]
+$$$
+Picture successfully taken
+***
+177.1 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+181.3 is the second result, convergence confirmed
+***
+[0.84468447] [0.08138561]
+0.999 3617.283892481764
+(base) li@li-OptiPlex-7070:~/Documents/active_learning/AMR$

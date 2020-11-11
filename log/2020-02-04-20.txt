@@ -1,0 +1,334 @@
+0.5 6000 1500 5000
+0     18  22
+0.8 1588 8500
+1.0 7744 9700 11000
+0.25 0   2000
+0.62 964 6230
+
+
+/home/li/anaconda3/bin/python3 /home/li/.local/share/JetBrains/Toolbox/apps/PyCharm-P/ch-0/193.6015.41/plugins/python/helpers/pydev/pydevconsole.py --mode=client --port=35935
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/home/li/Documents/amr'])
+Python 3.7.4 (default, Aug 13 2019, 20:35:49) 
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.8.0 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 7.8.0
+Python 3.7.4 (default, Aug 13 2019, 20:35:49) 
+[GCC 7.3.0] on linux
+In[2]: runfile('/home/li/Documents/amr/test.py', wdir='/home/li/Documents/amr')
+Decimal not detected. Try again...
+Decimal not detected. Try again...
+Digit not recognized. Try again...
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+No liquid in the conductivity sensor
+***
+0 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+***
+0
+1371.0
+Not converged yet. Try again...
+***
+***
+1446.0 is the first result, test convergence after 5 sec...
+***
+***
+1446.0
+1525.0
+Not converged yet. Try again...
+***
+***
+1689.0 is the first result, test convergence after 5 sec...
+***
+***
+1689.0
+4869.0
+Not converged yet. Try again...
+***
+Decimal not detected. Try again...
+Digit not recognized. Try again...
+***
+5304.0 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+***
+5304.0
+5467.0
+Not converged yet. Try again...
+***
+***
+5486.0 is the first result, test convergence after 5 sec...
+***
+***
+5486.0
+5528.0
+Not converged yet. Try again...
+***
+Digit not recognized. Try again...
+Decimal not detected. Try again...
+***
+5549.0 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+***
+5549.0
+5588.0
+Not converged yet. Try again...
+***
+***
+5594.0 is the first result, test convergence after 5 sec...
+***
+***
+5594.0
+5612.0
+Not converged yet. Try again...
+***
+***
+5618.0 is the first result, test convergence after 5 sec...
+***
+***
+5618.0
+5632.0
+Not converged yet. Try again...
+***
+Digit not recognized. Try again...
+Decimal not detected. Try again...
+***
+5642.0 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+***
+5642.0
+5656.0
+Not converged yet. Try again...
+***
+***
+5658.0 is the first result, test convergence after 5 sec...
+***
+***
+5655.0 is the second result, convergence confirmed
+***
+
+
+Digit not recognized. Try again...
+
+
+
+
+
+
+Decimal not detected. Try again...
+
+
+
+
+
+
+Decimal not detected. Try again...
+
+
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Decimal not detected. Try again...
+Decimal not detected. Try again...
+***
+15.77 is the first result, test convergence after 5 sec...
+***
+***
+17.98 is the second result, convergence confirmed
+***
+Decimal not detected. Try again...
+
+
+
+
+
+Digit not recognized. Try again...
+
+
+
+
+
+
+
+Decimal not detected. Try again...
+
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Decimal not detected. Try again...
+Decimal not detected. Try again...
+***
+1579.0 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+***
+1588.0 is the second result, convergence confirmed
+***
+$$$
+Observing point of X=1.0
+$$$
+
+Decimal not detected. Try again...
+
+
+
+
+
+
+Decimal not detected. Try again...
+
+
+
+
+
+
+Decimal not detected. Try again...
+
+
+
+
+
+
+Digit not recognized. Try again...
+
+
+
+
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Digit not recognized. Try again...
+Decimal not detected. Try again...
+***
+7396.0 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+***
+7396.0
+7515.0
+Not converged yet. Try again...
+***
+***
+7538.0 is the first result, test convergence after 5 sec...
+***
+***
+7538.0
+7628.0
+Not converged yet. Try again...
+***
+***
+7641.0 is the first result, test convergence after 5 sec...
+***
+***
+7641.0
+7665.0
+Not converged yet. Try again...
+***
+Decimal not detected. Try again...
+Decimal not detected. Try again...
+***
+7676.0 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+***
+7676.0
+7695.0
+Not converged yet. Try again...
+***
+***
+7700.0 is the first result, test convergence after 5 sec...
+***
+***
+7700.0
+7715.0
+Not converged yet. Try again...
+***
+Decimal not detected. Try again...
+Digit not recognized. Try again...
+***
+7724.0 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+***
+7724.0
+7735.0
+Not converged yet. Try again...
+***
+***
+7737.0 is the first result, test convergence after 5 sec...
+***
+***
+7744.0 is the second result, convergence confirmed
+***
+$$$
+Observing point of X=0.24524524524524524
+$$$
+
+Decimal not detected. Try again...
+
+
+
+
+
+
+
+Decimal not detected. Try again...
+
+
+
+
+
+
+Decimal not detected. Try again...
+
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Decimal not detected. Try again...
+No liquid in the conductivity sensor
+***
+0 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+No liquid in the conductivity sensor
+***
+0 is the second result, convergence confirmed
+***
+$$$
+Observing point of X=0.6176176176176176
+$$$
+Decimal not detected. Try again...
+
+
+
+Digit not recognized. Try again...
+
+
+
+
+
+
+
+
+
+Decimal not detected. Try again...
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Decimal not detected. Try again...
+***
+969.7 is the first result, test convergence after 5 sec...
+***
+Decimal not detected. Try again...
+***
+969.7
+952.8
+Not converged yet. Try again...
+***
+***
+955.9 is the first result, test convergence after 5 sec...
+***
+***
+964.0 is the second result, convergence confirmed
+***
+0.997 [7745.97122342]
+

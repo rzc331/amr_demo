@@ -1,0 +1,303 @@
+solute 8000 us
+
+/home/li/anaconda3/bin/python3 /home/li/.local/share/JetBrains/Toolbox/apps/PyCharm-P/ch-0/193.6015.41/plugins/python/helpers/pydev/pydevconsole.py --mode=client --port=32805
+
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['/home/li/Documents/amr'])
+
+Python 3.7.4 (default, Aug 13 2019, 20:35:49)
+Type 'copyright', 'credits' or 'license' for more information
+IPython 7.8.0 -- An enhanced Interactive Python. Type '?' for help.
+PyDev console: using IPython 7.8.0
+
+Python 3.7.4 (default, Aug 13 2019, 20:35:49)
+[GCC 7.3.0] on linux
+In[2]: runfile('/home/li/Documents/amr/test.py', wdir='/home/li/Documents/amr')
+Picture successfully taken
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Picture successfully taken
+***
+402.6 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+402.6
+425.2
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+431.4 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+431.4
+446.6
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+450.8 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+450.8
+460.6
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+463.1 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Anchor points not appropriately detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+463.1
+472.5
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+473.8 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Anchor points not appropriately detected. Try again...
+Picture successfully taken
+***
+478.0 is the second result, convergence confirmed
+***
+Picture successfully taken
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Picture successfully taken
+***
+2502.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+2511.0 is the second result, convergence confirmed
+***
+Picture successfully taken
+Conductivity meter is not cleaned yet...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Conductivity meter is not cleaned yet...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Conductivity meter is not cleaned yet...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Conductivity meter is not cleaned yet...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Picture successfully taken
+***
+1748.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+1748.0
+1816.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+1826.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+1826.0
+1851.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+1864.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+1864.0
+1881.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+1885.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+1893.0 is the second result, convergence confirmed
+***
+[0.11211211] [478.]
+
+[0.88488488] [2511.]
+
+[0.44844845] [1893.]
+
+$$$
+Observing point of X=0.6666666666666666
+$$$
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Digit not recognized. Try again...
+Picture successfully taken
+Digit not recognized. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Digit not recognized. Try again...
+Picture successfully taken
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Picture successfully taken
+***
+4786.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+4786.0
+4835.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+4852.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+4852.0
+4903.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+4932.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+4932.0
+4974.0
+Not converged yet. Try again...
+***
+Picture successfully taken
+***
+4983.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+5003.0 is the second result, convergence confirmed
+***
+[0.11211211] [478.]
+
+[0.88488488] [2511.]
+
+[0.44844845] [1893.]
+
+[0.66666667] [5003.]
+
+$$$
+Observing point of X=0.0
+$$$
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Picture successfully taken
+Digit not recognized. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+-12.87 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+***
+-13.19 is the second result, convergence confirmed
+***
+[0.11211211] [478.]
+
+[0.88488488] [2511.]
+
+[0.44844845] [1893.]
+
+[0.66666667] [5003.]
+
+[0.] [-13.19]
+
+$$$
+Observing point of X=1.0
+$$$
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Digit not recognized. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+No liquid in the conductivity sensor
+Conductivity meter is cleaned
+Picture successfully taken
+***
+5167.0 is the first result, test convergence after 5 sec...
+***
+Picture successfully taken
+Decimal not detected. Try again...
+Picture successfully taken
+***
+5180.0 is the second result, convergence confirmed
+***
+[0.11211211] [478.]
+
+[0.88488488] [2511.]
+
+[0.44844845] [1893.]
+
+[0.66666667] [5003.]
+
+[0.] [-13.19]
+
+[1.] [5180.]
+
+0.999 [5179.99999941]
